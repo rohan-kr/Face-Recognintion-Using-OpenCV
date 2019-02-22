@@ -1,2 +1,3 @@
 # Face-Recognintion-Using-OpenCV
-#Face Recognition using OpenCV in Python
+Face Recognition using OpenCV in Python
+Using HAARCascadeClassifier
